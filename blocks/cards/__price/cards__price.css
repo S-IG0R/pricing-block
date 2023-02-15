@@ -1,0 +1,20 @@
+.cards__price {
+font-style: normal;
+font-weight: 700;
+font-size: 67px;
+line-height: 79px;
+letter-spacing: -0.1px;
+color: #FFFFFF;
+margin: 27px 0 0 46px;
+position: relative;
+}
+
+.cards__price::before {
+    content: '\0024';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    position: absolute;
+    left: -10px;
+}

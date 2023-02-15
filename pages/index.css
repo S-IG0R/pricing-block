@@ -1,0 +1,34 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/root/root.css);
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/pricing-block/pricing-block.css);
+
+@import url(../blocks/title/title.css);
+@import url(../blocks/subtitle/subtitle.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__item/_theme/cards__item_theme_yellow.css);
+@import url(../blocks/cards/__item/_theme/cards__item_theme_aqua.css);
+@import url(../blocks/cards/__item/_theme/cards__item_theme_blue.css);
+@import url(../blocks/cards/__item/_theme/cards__item_theme_grey.css);
+
+@import url(../blocks/cards/__image-container/cards__image-container.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__image/_type/cards__image_type_snail.css);
+@import url(../blocks/cards/__image/_type/cards__image_type_car.css);
+@import url(../blocks/cards/__image/_type/cards__image_type_bus.css);
+@import url(../blocks/cards/__image/_type/cards__image_type_cannon.css);
+
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__subtitle/cards__subtitle.css);
+@import url(../blocks/cards/__price/cards__price.css);
+
+@import url(../blocks/cards/__features/cards__features.css);
+@import url(../blocks/cards/__features-item/cards__features-item.css);
+@import url(../blocks/cards/__button/cards__button.css);
+@import url(../blocks/cards/__button/_type/cards__button_type_selected.css);
+
+@import url(../blocks/cards/__lable-popular/cards__lable-popular.css);
+@import url(../blocks/cards/__label-popular-text/cards__label-popular-text.css);

@@ -1,0 +1,11 @@
+.cards__lable-popular {
+    width: 266px;
+    height: 31px;
+    background-color: rgba(0, 0, 0, 0.05);
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}

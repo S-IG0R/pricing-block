@@ -1,0 +1,19 @@
+.cards__label-popular-text {
+    color: #fff;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.cards__label-popular-text::before {
+    content: "";
+    position: absolute;
+    left: -18px;
+    width: 12px;
+    height: 12px;
+    background-image: url(../../../images/Path.svg);
+}

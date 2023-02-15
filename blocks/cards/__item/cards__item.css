@@ -1,0 +1,12 @@
+.cards__item {
+    border-radius: 2px;
+    transition: all 0.7s;
+    display: grid;
+    align-content: start;
+    position: relative;
+}
+
+.cards__item:hover {
+   transform: scale(1.013);
+   box-shadow: 0 0 25px rgb(184, 184, 184);
+}
