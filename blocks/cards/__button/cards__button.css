@@ -13,7 +13,8 @@
     position: absolute;
     bottom: 36px;
     left: 35px;
-    transition: all .15s linear ;
+    transition: all .15s linear;
+    cursor: pointer;
 }
 
 .cards__button:hover {
